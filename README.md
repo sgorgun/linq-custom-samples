@@ -1,4 +1,3 @@
-- Скачать архив `LINQ - Sample Queries.zip` демонстрационного приложения для изучения LINQ.
 - Запустить приложение (папка C#, `SampleQueries.sln`), изучить основные запросы `LINQ to Object - 101 LINQ Query Samples` (код находится в классе `LinqSamples`).
 
     ![](/101_LINQ_Query_Samples.png)
