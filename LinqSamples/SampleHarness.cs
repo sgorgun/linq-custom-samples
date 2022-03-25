@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
+﻿using System.Collections;
 using System.Reflection;
 using System.Text;
 using LinqSamples.Attributes;
@@ -33,7 +29,9 @@ namespace LinqSamples
                 }
             }
 
-            string allCode = ReadFile(Path.Combine(@"C:\Users\MIB\Desktop\LinqSamples\LinqSamples\", codeFile));
+            string path = Path.GetFullPath(Path.Combine(Application.StartupPath, $@"..\..\..\{codeFile}"));
+
+            string allCode = ReadFile(path);
 
             var methods =
                 from sm in samplesType.GetMethods(BindingFlags.Public | BindingFlags.Instance |

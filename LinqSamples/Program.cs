@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Windows.Forms;
 
 namespace LinqSamples
@@ -13,8 +14,8 @@ namespace LinqSamples
         public static void Main(string[] args)
         {
             List<SampleHarness> harnesses = new List<SampleHarness>();
-            ////Path.Combine(@"C:\Users\MIB\Desktop\LinqQueries", @"\Data\");
-            LinqQueries linqHarness = new LinqQueries(@"C:\Users\MIB\Desktop\LinqSamples\LinqSamples\Data\");
+            string path = Path.GetFullPath(Path.Combine(Application.StartupPath, @"..\..\..\Data\"));
+            LinqQueries linqHarness = new LinqQueries(path);
             harnesses.Add(linqHarness);
 
             if (args.Length >= 1 && args[0] == "/runall")
