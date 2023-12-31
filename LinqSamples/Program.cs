@@ -17,6 +17,8 @@ namespace LinqSamples
             string path = Path.GetFullPath(Path.Combine(Application.StartupPath, @"..\..\..\Data\"));
             LinqQueries linqHarness = new LinqQueries(path);
             harnesses.Add(linqHarness);
+            CustomSamples linqSamples = new CustomSamples(path);
+            harnesses.Add(linqSamples);
 
             if (args.Length >= 1 && args[0] == "/runall")
             {

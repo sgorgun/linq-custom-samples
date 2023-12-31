@@ -1,0 +1,16 @@
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\bin\Debug\net6.0-windows\LinqSamples.exe
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\bin\Debug\net6.0-windows\LinqSamples.deps.json
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\bin\Debug\net6.0-windows\LinqSamples.runtimeconfig.json
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\bin\Debug\net6.0-windows\LinqSamples.dll
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\bin\Debug\net6.0-windows\LinqSamples.pdb
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.SampleForm.resources
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.csproj.GenerateResource.cache
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.AssemblyInfoInputs.cache
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.AssemblyInfo.cs
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.csproj.CoreCompileInputs.cache
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.dll
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\refint\LinqSamples.dll
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.pdb
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\LinqSamples.genruntimeconfig.cache
+E:\EHU\.NET\Work\Source\Repos\Semestr3\linq-custom-samples\LinqSamples\obj\Debug\net6.0-windows\ref\LinqSamples.dll

@@ -723,7 +723,6 @@ namespace LinqSamples
                 words.OrderBy(a => a.Length)
                     .ThenBy(a => a, new CaseInsensitiveComparer());
 
-            // Another way. TODO is this use of ThenBy correct? It seems to work on this sample array.
             var sortedWords2 =
                 from word in words
                 orderby word.Length

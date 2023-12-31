@@ -1,4 +1,5 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿
+<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <OutputType>WinExe</OutputType>
@@ -11,7 +12,7 @@
         <CodeAnalysisTreatWarningsAsErrors>false</CodeAnalysisTreatWarningsAsErrors>
         <CodeAnalysisRuleSet>..\code-analysis.ruleset</CodeAnalysisRuleSet>
         <GenerateDocumentationFile>false</GenerateDocumentationFile>
-        <NoWarn>SA1600,SA1011,SA1611,CA1822,SA1025,SA1204,SA1502</NoWarn>
+        <NoWarn>SA1600,SA1011,SA1611,CA1822,SA1025,SA1204,SA1502, S6561, S6562, S3358, S6605, S6603</NoWarn>
     </PropertyGroup>
 
     <ItemGroup>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PWZ2YAdM9qmPga4LNA7UsiJUPoNiFzyeW3GVmeNWHkfDa30iAM+qXaKChp40tJZF8TuAaYyieBey0avKizRK0A==",
+  "success": true,
+  "projectFilePath": "E:\\EHU\\.NET\\Work\\Source\\Repos\\Semestr3\\linq-custom-samples\\LinqSamples\\LinqSamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\x-cri\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
